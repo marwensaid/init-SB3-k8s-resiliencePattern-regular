@@ -1,0 +1,1 @@
+# init-SB3-k8s-resiliencePattern-regular
